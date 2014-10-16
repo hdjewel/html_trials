@@ -1,0 +1,50 @@
+ body {
+    font-family: sans-serif;
+    color: red;
+}
+div.blocks {
+    width:350px ;
+    height:200px;
+/*    display:block*/
+
+}
+
+div.squares {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display:inline-block;
+    margin: 35px;
+}
+
+div#smallblock1{
+}
+
+div#smallblock2{
+}
+
+div.squares2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    display:inline-block;
+    margin: 35px;
+}
+
+div#smallblock3{
+
+}
+
+div#smallblock4{
+
+}
+
+div#firstblock {
+    background-color: red;
+   
+}
+
+div#secondblock{
+    background-color:blue;
+}
+

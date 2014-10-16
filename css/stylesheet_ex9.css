@@ -1,0 +1,14 @@
+#name {
+    margin-right: 40px;
+
+
+}
+#age {
+    margin-right: 25px;
+
+}
+
+label {
+    width: 120px;
+    display: inline-block;
+}
